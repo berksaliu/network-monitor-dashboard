@@ -53,7 +53,7 @@ This system continuously polls target network nodes via ICMP echo requests, pers
 
 ### 1. Clone Repository & Setup Environment
 ```bash
-git clone [https://github.com/berksaliu/network-monitor-dashboard.git](https://github.com/berksaliu/network-monitor-dashboard.git)
+git clone https://github.com/berksaliu/network-monitor-dashboard.git
 cd network-monitor-dashboard
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
