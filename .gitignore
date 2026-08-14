@@ -1,0 +1,16 @@
+# Python Virtual Environment
+venv/
+ENV/
+env/
+
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite Database (optional: keep if you want to showcase populated data, or exclude)
+# monitoring.db
+
+# OS specific files
+.DS_Store
+Thumbs.db
