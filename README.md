@@ -32,7 +32,7 @@ This system continuously polls target network nodes via ICMP echo requests, pers
 | `2026-08-14 21:12:24` | Google Web | `google.com` | `ONLINE` | 35.0 |
 | `2026-08-14 21:12:24` | Google DNS | `8.8.8.8` | `ONLINE` | 21.0 |
 | `2026-08-14 21:12:24` | Cloudflare DNS | `1.1.1.1` | `ONLINE` | 28.0 |
-| `2026-08-14 21:12:24` | Local Gateway | `192.168.1.1` | `ONLINE` | 1.0 |
+| `2026-08-14 21:12:24` | Local Gateway | `192.168.0.1` | `ONLINE` | 1.0 |
 
 ---
 
